@@ -1,5 +1,3 @@
-# 重新 issues 的仓库
-
 - 问题
 
 配置了 browserlist （兼容到 ie11）后，ie11 中 仍没有添加 ChildNode#remove 方法
